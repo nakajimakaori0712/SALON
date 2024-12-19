@@ -3,7 +3,7 @@
 <html lang="ja">
     <head>
         <title>SALON</title>
-        <link rel="stylesheet" href="SALON/style.css"> 
+        <link rel="stylesheet" href="./style.css"> 
     </head>
 
     <body>
