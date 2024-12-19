@@ -1,11 +1,8 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-    <a class="navbar-brand" href="SALON/index.php">SALON</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
+    <a class="navbar-brand" href="./index.php">SALON</a>
 
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-        <ul class="navbar-nav mr-auto">
+    <div id="navbarsExampleDefault">
+        <ul class="navbar-nav">
             <li class="nav-item"><a class="nav-link" href="#">お知らせ</a></li>
             <li class="nav-item"><a class="nav-link" href="#">予約</a></li>
             <li class="nav-item"><a class="nav-link" href="#">口コミ</a></li>
