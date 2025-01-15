@@ -83,7 +83,7 @@ try{
 
             <?php
             try{
-                $stmt = $db->prepre("SELECT COUNT(*) FROM bbs");
+                $stmt = $db->prepare("SELECT COUNT(*) FROM bbs");
                 $stmt->execute();
             }catch(PDOException $e){
                 exit("エラー：".$e->getMessage());

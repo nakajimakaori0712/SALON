@@ -21,7 +21,7 @@ try{
 
     $stmt->execute();
 }catch(PDOException $e){
-    exit("エラー：".$e->getMessge());
+    exit("エラー：".$e->getMessage());
 }
 header('Location:bbs.php');
 exit();
