@@ -4,8 +4,9 @@
     <div id="navbarsExampleDefault">
         <ul class="navbar-nav">
             <li class="nav-item"><a class="nav-link" href="info.php">お知らせ</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">予約</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">口コミ</a></li>
+            <li class="nav-item"><a class="nav-link" href="upload.php">画像アップロード</a></li>
+            <li class="nav-item"><a class="nav-link" href="album.php">写真</a></li>
+            <li class="nav-item"><a class="nav-link" href="album.php">掲示板</a></li>
         </ul>
     </div>
 </nav>
