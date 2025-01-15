@@ -33,7 +33,7 @@ if($handle =opendir('./album')){
                 echo '<div class="row">';
 
                 //指定枚数ごとに画像ファイルを分解
-                $images = arry_chunk($images,$num);
+                $images = array_chunk($images,$num);
                 $page =1;    //ページ数
 
                 //GETでページ数が指定されていた時
