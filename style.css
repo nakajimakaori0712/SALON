@@ -1,6 +1,15 @@
 .navbar-nav{
     display: flex;
+    justify-content: space-between;
     margin-left: 20px;
     background-color: black;
     color: aliceblue;
+}
+
+.navbar-nav a:visited{
+    color:aliceblue;
+}
+
+.nav-item li{
+    margin:10px;
 }
